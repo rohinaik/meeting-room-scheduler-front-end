@@ -1,0 +1,13 @@
+.meeting-card {
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+}
+
+.bookButton {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}

@@ -1,0 +1,34 @@
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    background-color: #070f2d;
+    color: #ffffff;
+  }
+  
+  .logo img {
+    color: white;
+    padding-left: 8px;
+  }
+
+  .action-btn{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+  }
+
+  .sigout-btn {
+    background-color: #f44336;
+    color: white;
+    margin-left: 32px;
+    width: 24px;
+    font-size: 14px !important;
+    font-weight: 700;
+  }
+  
+  .feedback-btn{
+    font-size: 16px !important;
+    color: white !important;
+  }

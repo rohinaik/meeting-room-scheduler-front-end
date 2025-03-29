@@ -1,0 +1,14 @@
+.searchAvailableRooms-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 88vh;
+    margin: 16px;
+}
+
+.date-container{
+    width: 75%;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
